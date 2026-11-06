@@ -21,11 +21,6 @@ The objective was to structure the business problem, explore potential root caus
 ## Key Learnings
 
 This project strengthened my ability to distinguish symptoms from root causes, develop testable business hypotheses, structure consulting engagements, and differentiate strategic alternatives from implementation initiatives.
-
-## Project Report
-
-[View Strategic Assessment (PDF)](SecureShield_Strategic_Assessment.pdf)
-
 ---
 
 *Educational case study based on a fictional business scenario. Analyses and recommendations are preliminary and do not represent a real client engagement.*
