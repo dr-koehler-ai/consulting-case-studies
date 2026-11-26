@@ -66,6 +66,4 @@ The case proposes a **12-week pilot on two internal medicine wards**, with compa
 
 Start by validating the hospital's needs and prioritizing targeted EHR and data prerequisites that provide value in their own right or enable clearly justified initiatives. Assess automated scheduling and telemedicine as separate investments, with independently validated business cases and implementation plans. Consider a strictly budget- and time-capped AI deterioration prediction evaluation only once safety governance and applicable approval readiness are in place; proceed beyond it only if predefined clinical, operational, regulatory, and economic criteria are met. The hypothetical negative base-case ROI should remain visible in that decision.
 
-## Evidence status and framework acknowledgement
-
-This is an **illustrative, hypothetical case** associated with Coursera IBM coursework. 
+This is an **illustrative, hypothetical case associated with Coursera IBM coursework**. 
